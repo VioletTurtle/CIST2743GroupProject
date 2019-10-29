@@ -56,21 +56,6 @@
      <Compile Include="Assets\AssetStoreOriginals\_SNAPS_PrototypingAssets\About\Scripts\Editor\ReadmeEditor.cs" />
      <Compile Include="Assets\AssetStoreOriginals\_SNAPS_PrototypingAssets\Scripts\Editor\PackageChecker\PackageChecker.cs" />
      <None Include="Assets\AssetStoreOriginals\_SNAPS_PrototypingAssets\Scripts\Editor\PackageChecker\PackageImportList.txt" />
- <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
- </Reference>
  <Reference Include="Unity.ProGrids">
  <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
  </Reference>
@@ -86,8 +71,23 @@
  <Reference Include="Unity.ProGrids.Editor">
  <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PackageManagerUI.Editor">
+ <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.CollabProxy.Editor">
+ <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.ProBuilder.AddOns.Editor">
  <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.DataPrivacy">
+ <HintPath>F:/College/Ongoing Classes/Intro GP/Project/Git/CIST2743GroupProject/CIST2743GroupProject/GP Final Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
